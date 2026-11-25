@@ -1,0 +1,20 @@
+PODS:
+  - NosmaiCameraSDK (3.0.7)
+  - ZegoExpressEngine (3.25.0)
+
+DEPENDENCIES:
+  - NosmaiCameraSDK (= 3.0.7)
+  - ZegoExpressEngine (= 3.25.0)
+
+SPEC REPOS:
+  trunk:
+    - NosmaiCameraSDK
+    - ZegoExpressEngine
+
+SPEC CHECKSUMS:
+  NosmaiCameraSDK: b914cb19ea0f88faf537e726f0b09bfa20ba3bc7
+  ZegoExpressEngine: a95ea045a302a4157f730dfee5a569d447f6a976
+
+PODFILE CHECKSUM: fa4b1b1212e6ceca1a49644724e9df1d7d02f1ab
+
+COCOAPODS: 1.17.0
